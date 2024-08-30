@@ -7,3 +7,5 @@ Runs a WiFi access point that changes its SSID every 30s. The names are based on
 Anyone connecting to it, will be shown a captive portal.
 
 Based on [esp-wifi-rickroller](https://github.com/marcelstoer/esp-wifi-rickroller) but enhanced with logging and an admin page to view/reset logs.
+
+Tested on ESP32-WROOM-32U.
